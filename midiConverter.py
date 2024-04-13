@@ -1,6 +1,6 @@
 from mido import MidiFile
 import numpy as np
-midName = '说好的幸福呢.midi'
+midName = '123.mid'
 mid = MidiFile(midName)
 
 sec_per_pai = 60/143
